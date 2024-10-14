@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\bin\Debug\net8.0\bb.exe
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\bin\Debug\net8.0\bb.deps.json
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\bin\Debug\net8.0\bb.runtimeconfig.json
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\bin\Debug\net8.0\bb.dll
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\bin\Debug\net8.0\bb.pdb
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\bb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\bb.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\bb.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\bb.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\bb.sourcelink.json
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\bb.dll
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\refint\bb.dll
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\bb.pdb
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\bb.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Tazercraft\GerenciamentoBiblioteca\bb\obj\Debug\net8.0\ref\bb.dll
